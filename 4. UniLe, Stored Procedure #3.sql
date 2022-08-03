@@ -1,4 +1,4 @@
-#	Luiz Gustavo de Oliveira Nascimento - 1917230
+#	Luiz Gustavo de Oliveira Nascimento
 -- ------------------------------------------------------- --
 #		Trabalho Prático - UniLe - Stored Procedure #3		#
 -- ------------------------------------------------------- --
