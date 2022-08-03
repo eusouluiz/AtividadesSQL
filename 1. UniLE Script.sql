@@ -1,4 +1,4 @@
-#	Luiz Gustavo de Oliveira Nascimento - 1917230
+#	Luiz Gustavo de Oliveira Nascimento
 #	Script de criação do banco de dados UniLE
 
 Create database UniLE;
